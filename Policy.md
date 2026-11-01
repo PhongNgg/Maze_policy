@@ -2,19 +2,32 @@
 
 Effective Date: 2026-11-01
 
-MAZE: Sliding Bar is an offline brain teaser sliding puzzle game developed as a free app.
+MAZE: Sliding Bar is an offline brain teaser sliding puzzle game developed by ngpdroid as an ad-supported application. This SERVICE is provided at no cost and is intended for use as is.
 
 ### 1. Information Collection and Use
-MAZE: Sliding Bar does NOT collect, store, transmit, or share any personal identifiable information (PII) from its users. The game operates 100% locally on your device. Game progress (such as completed levels and high scores) is stored strictly on your local device storage using Android DataStore.
+MAZE: Sliding Bar does not directly collect, store, or require any personal identifiable information (such as your name, email, address, or phone number). 
 
-### 2. Third-Party Services
-This application does not use any third-party tracking, analytics, or advertising SDKs that collect information about you.
+Your game progress (levels completed, optimal moves, and star ratings) is stored strictly on your local device storage using Android DataStore and is never uploaded to any remote server by us.
 
-### 3. Children's Privacy
-Our game does not address anyone under the age of 13 specifically, but it is completely safe for all age groups as no personal data is collected or requested.
+### 2. Third-Party Services and SDKs
+To support the development and ensure stability, the Application integrates third-party services that may collect information used to identify your device:
 
-### 4. Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Any changes will be posted on this page.
+* **Google AdMob (Mobile Ads SDK):** Used to display banner and interstitial advertisements. AdMob may collect and process device identifiers (including Google Advertising ID), coarse location data, IP address, and ad interaction metrics to serve contextual or personalized advertisements and prevent fraud.
+  - [Google Privacy Policy](https://policies.google.com/privacy)
+  - [Google Advertising Policies](https://policies.google.com/technologies/ads)
 
-### 5. Contact Us
-If you have any questions or suggestions about our Privacy Policy, please contact us via email nguyengiaphong84@gmail.com
+* **Firebase Crashlytics & Analytics (Google LLC):** Used to automatically track app stability, monitor performance, and analyze crash dumps so we can fix bugs quickly. Collected data includes crash logs, device state information, and anonymous installation IDs.
+  - [Firebase Privacy Information](https://firebase.google.com/support/privacy)
+
+### 3. Data Encryption & Security
+All communication between third-party SDKs (Google AdMob, Firebase) and their respective servers is encrypted in transit using industry-standard HTTPS protocols.
+
+### 4. Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us.
+
+### 5. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes. Any changes are effective immediately upon posting.
+
+### 6. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+- GitHub: https://github.com/PhongNgg/SupperMaze-Puzzle
