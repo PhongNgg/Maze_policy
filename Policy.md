@@ -1,8 +1,8 @@
-# Privacy Policy for MAZE: Sliding Bar
+# Privacy Policy
 
 Effective Date: 2026-11-01
 
-MAZE: Sliding Bar is an offline brain teaser sliding puzzle game developed by ngpdroid as an ad-supported application. This SERVICE is provided at no cost and is intended for use as is.
+This is an offline brain teaser sliding puzzle game developed by ngpdroid as an ad-supported application. This SERVICE is provided at no cost and is intended for use as is.
 
 ### 1. Information Collection and Use
 MAZE: Sliding Bar does not directly collect, store, or require any personal identifiable information (such as your name, email, address, or phone number). 
