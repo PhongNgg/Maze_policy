@@ -5,7 +5,8 @@ Effective Date: 2026-11-01
 This is an offline brain teaser sliding puzzle game developed by ngpdroid as an ad-supported application. This SERVICE is provided at no cost and is intended for use as is.
 
 ### 1. Information Collection and Use
-MAZE: Sliding Bar does not directly collect, store, or require any personal identifiable information (such as your name, email, address, or phone number). 
+This app does not directly collect, store, or require any personal identifiable information
+. 
 
 Your game progress (levels completed, optimal moves, and star ratings) is stored strictly on your local device storage using Android DataStore and is never uploaded to any remote server by us.
 
